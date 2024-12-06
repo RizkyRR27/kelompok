@@ -1,0 +1,65 @@
+[2024-12-02 14:49:11] SQLSTATE: IM006 - Code: 0 - Message: [Microsoft][ODBC Driver Manager] Driver's SQLSetConnectAttr failed
+SQLSTATE: 01000 - Code: 5701 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed database context to 'tata_tertib'.
+SQLSTATE: 01000 - Code: 5703 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed language setting to us_english.
+[2024-12-02 14:49:13] SQLSTATE: IM006 - Code: 0 - Message: [Microsoft][ODBC Driver Manager] Driver's SQLSetConnectAttr failed
+SQLSTATE: 01000 - Code: 5701 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed database context to 'tata_tertib'.
+SQLSTATE: 01000 - Code: 5703 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed language setting to us_english.
+[2024-12-02 14:49:40] SQLSTATE: IM006 - Code: 0 - Message: [Microsoft][ODBC Driver Manager] Driver's SQLSetConnectAttr failed
+SQLSTATE: 01000 - Code: 5701 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed database context to 'tata_tertib'.
+SQLSTATE: 01000 - Code: 5703 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed language setting to us_english.
+[2024-12-02 14:49:40] SQLSTATE: IM006 - Code: 0 - Message: [Microsoft][ODBC Driver Manager] Driver's SQLSetConnectAttr failed
+SQLSTATE: 01000 - Code: 5701 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed database context to 'tata_tertib'.
+SQLSTATE: 01000 - Code: 5703 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed language setting to us_english.
+[2024-12-02 14:49:40] SQLSTATE: IM006 - Code: 0 - Message: [Microsoft][ODBC Driver Manager] Driver's SQLSetConnectAttr failed
+SQLSTATE: 01000 - Code: 5701 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed database context to 'tata_tertib'.
+SQLSTATE: 01000 - Code: 5703 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed language setting to us_english.
+[2024-12-02 14:49:40] SQLSTATE: IM006 - Code: 0 - Message: [Microsoft][ODBC Driver Manager] Driver's SQLSetConnectAttr failed
+SQLSTATE: 01000 - Code: 5701 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed database context to 'tata_tertib'.
+SQLSTATE: 01000 - Code: 5703 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed language setting to us_english.
+[2024-12-02 14:49:41] SQLSTATE: IM006 - Code: 0 - Message: [Microsoft][ODBC Driver Manager] Driver's SQLSetConnectAttr failed
+SQLSTATE: 01000 - Code: 5701 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed database context to 'tata_tertib'.
+SQLSTATE: 01000 - Code: 5703 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed language setting to us_english.
+[2024-12-02 14:49:59] SQLSTATE: IM006 - Code: 0 - Message: [Microsoft][ODBC Driver Manager] Driver's SQLSetConnectAttr failed
+SQLSTATE: 01000 - Code: 5701 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed database context to 'tata_tertib'.
+SQLSTATE: 01000 - Code: 5703 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed language setting to us_english.
+[2024-12-02 14:50:00] SQLSTATE: IM006 - Code: 0 - Message: [Microsoft][ODBC Driver Manager] Driver's SQLSetConnectAttr failed
+SQLSTATE: 01000 - Code: 5701 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed database context to 'tata_tertib'.
+SQLSTATE: 01000 - Code: 5703 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed language setting to us_english.
+[2024-12-02 14:50:00] SQLSTATE: IM006 - Code: 0 - Message: [Microsoft][ODBC Driver Manager] Driver's SQLSetConnectAttr failed
+SQLSTATE: 01000 - Code: 5701 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed database context to 'tata_tertib'.
+SQLSTATE: 01000 - Code: 5703 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed language setting to us_english.
+[2024-12-02 14:50:00] SQLSTATE: IM006 - Code: 0 - Message: [Microsoft][ODBC Driver Manager] Driver's SQLSetConnectAttr failed
+SQLSTATE: 01000 - Code: 5701 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed database context to 'tata_tertib'.
+SQLSTATE: 01000 - Code: 5703 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed language setting to us_english.
+[2024-12-02 14:50:00] SQLSTATE: IM006 - Code: 0 - Message: [Microsoft][ODBC Driver Manager] Driver's SQLSetConnectAttr failed
+SQLSTATE: 01000 - Code: 5701 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed database context to 'tata_tertib'.
+SQLSTATE: 01000 - Code: 5703 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed language setting to us_english.
+[2024-12-02 14:50:11] SQLSTATE: IM006 - Code: 0 - Message: [Microsoft][ODBC Driver Manager] Driver's SQLSetConnectAttr failed
+SQLSTATE: 01000 - Code: 5701 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed database context to 'tata_tertib'.
+SQLSTATE: 01000 - Code: 5703 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed language setting to us_english.
+[2024-12-02 14:50:12] SQLSTATE: IM006 - Code: 0 - Message: [Microsoft][ODBC Driver Manager] Driver's SQLSetConnectAttr failed
+SQLSTATE: 01000 - Code: 5701 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed database context to 'tata_tertib'.
+SQLSTATE: 01000 - Code: 5703 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed language setting to us_english.
+[2024-12-02 14:50:12] SQLSTATE: IM006 - Code: 0 - Message: [Microsoft][ODBC Driver Manager] Driver's SQLSetConnectAttr failed
+SQLSTATE: 01000 - Code: 5701 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed database context to 'tata_tertib'.
+SQLSTATE: 01000 - Code: 5703 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed language setting to us_english.
+[2024-12-02 14:52:42] SQLSTATE: IM006 - Code: 0 - Message: [Microsoft][ODBC Driver Manager] Driver's SQLSetConnectAttr failed
+SQLSTATE: 01000 - Code: 5701 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed database context to 'tata_tertib'.
+SQLSTATE: 01000 - Code: 5703 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed language setting to us_english.
+[2024-12-02 14:52:42] SQLSTATE: IM006 - Code: 0 - Message: [Microsoft][ODBC Driver Manager] Driver's SQLSetConnectAttr failed
+SQLSTATE: 01000 - Code: 5701 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed database context to 'tata_tertib'.
+SQLSTATE: 01000 - Code: 5703 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed language setting to us_english.
+[2024-12-02 14:52:43] SQLSTATE: IM006 - Code: 0 - Message: [Microsoft][ODBC Driver Manager] Driver's SQLSetConnectAttr failed
+SQLSTATE: 01000 - Code: 5701 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed database context to 'tata_tertib'.
+SQLSTATE: 01000 - Code: 5703 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed language setting to us_english.
+[2024-12-02 14:52:43] SQLSTATE: IM006 - Code: 0 - Message: [Microsoft][ODBC Driver Manager] Driver's SQLSetConnectAttr failed
+SQLSTATE: 01000 - Code: 5701 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed database context to 'tata_tertib'.
+SQLSTATE: 01000 - Code: 5703 - Message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Changed language setting to us_english.
+[2024-12-02 14:55:39] SQLSTATE: 08001 - Code: 2 - Message: [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [2]. 
+SQLSTATE: IM006 - Code: 0 - Message: [Microsoft][ODBC Driver Manager] Driver's SQLSetConnectAttr failed
+SQLSTATE: HYT00 - Code: 0 - Message: [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+SQLSTATE: 08001 - Code: 2 - Message: [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
+[2024-12-02 14:56:05] SQLSTATE: 08001 - Code: 2 - Message: [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [2]. 
+SQLSTATE: IM006 - Code: 0 - Message: [Microsoft][ODBC Driver Manager] Driver's SQLSetConnectAttr failed
+SQLSTATE: HYT00 - Code: 0 - Message: [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired
+SQLSTATE: 08001 - Code: 2 - Message: [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online.
