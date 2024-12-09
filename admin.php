@@ -44,14 +44,16 @@ try {
         <table border="1">
             <tr>
                 <th>ID</th>
-                <th>Nama</th>
                 <th>NIM</th>
+                <th>Nama</th>
+                <th>Kelas</th>
             </tr>
             <?php foreach ($mahasiswa as $row): ?>
                 <tr>
-                    <td><?= isset($row['id_mhs']) ? htmlspecialchars($row['id'], ENT_QUOTES, 'UTF-8') : 'Tidak Ada' ?></td>
-                    <td><?= isset($row['nama_mhs']) ? htmlspecialchars($row['nama'], ENT_QUOTES, 'UTF-8') : 'Tidak Ada' ?></td>
+                    <td><?= isset($row['id_mhs']) ? htmlspecialchars($row['id_mhs'], ENT_QUOTES, 'UTF-8') : 'Tidak Ada' ?></td>
                     <td><?= isset($row['nim']) ? htmlspecialchars($row['nim'], ENT_QUOTES, 'UTF-8') : 'Tidak Ada' ?></td>
+                    <td><?= isset($row['nama_mhs']) ? htmlspecialchars($row['nama_mhs'], ENT_QUOTES, 'UTF-8') : 'Tidak Ada' ?></td>
+                    <td><?= isset($row['kelas']) ? htmlspecialchars($row['kelas'], ENT_QUOTES, 'UTF-8') : 'Tidak Ada' ?></td>
                 </tr>
             <?php endforeach; ?>
         </table>
